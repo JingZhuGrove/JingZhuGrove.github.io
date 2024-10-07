@@ -1,0 +1,29 @@
+# Site settings
+title: 靜竹林心靈網站
+email: jingzhugrove@gmail.com
+description: >-
+  Welcome to 靜竹林心靈網站, a peaceful retreat for the mind and spirit. Here we explore wellness, meditation, and the serene beauty of bamboo.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://JingZhuGrove.github.io" # your GitHub Pages URL
+
+# twitter_username: jingzhugrove
+github_username: JingZhuGrove
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
