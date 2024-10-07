@@ -2,7 +2,14 @@
 title: 靜竹林心靈網站
 email: jingzhugrove@gmail.com
 description: >-
-  Welcome to 靜竹林心靈網站, a peaceful retreat for the mind and spirit. Here we explore wellness, meditation, and the serene beauty of bamboo.
+  The JingZhuGrove spiritual website originated from various online discussion forums, initially established on the LeoBBS platform (jin999.com), and later migrated to a self-hosted forum (Discuz, jin999.tw). As social media evolved, traditional forum formats became outdated. This platform once gathered hundreds of users, whether seeking spiritual solace or interpersonal communication. After consultation between the administrators and JingZhuLin, it was decided to archive the forum and transition to a static archive of articles, allowing those deeply connected to trace paths and maintain the embers of spiritual exchange.
+description_zh_tw: >-
+  靜竹林心靈網站－源起於各大網路討論區，初建於雷傲討論區（LeoBBS, jin999.com），後遷至自建論壇（Discuz, jin999.tw）。隨著社群媒體的演變，傳統論壇形式漸顯落伍。此平台曾匯聚數百網友，無論是尋求心靈慰藉或人際交流，皆有所應。經過管理員與靜竹林的討論，決定封存論壇，轉型為靜態文章形式，以便緣深者尋跡探索，保持精神交流的火種。
+description_zh_cn: >-
+  静竹林心灵网站－起源于各大网络讨论区，初建于雷傲讨论区（LeoBBS, jin999.com），后迁至自建论坛（Discuz, jin999.tw）。随着社交媒体的演变，传统论坛形式逐渐显得过时。该平台曾汇聚数百网友，无论是寻求心灵慰藉或人际交流，均有所应。经过管理者与静竹林的讨论，决定封存论坛，转型为静态文章库，便于缘深者寻迹探索，保持精神交流的火种。
+description_ja: >-
+  静竹林ウェブサイトは、さまざまなオンラインフォーラムから始まり、最初は雷傲フォーラム（LeoBBS, jin999.com）に設立され、後に独自のフォーラム（Discuz, jin999.tw）に移行しました。ソーシャルメディアの進化により、従来のフォーラムの形式は徐々に時代遅れとなっています。このプラットフォームは、心の慰めや人間関係の交流を求める数百のユーザーを集めていましたが、管理者と静竹林の合意の下、フォーラムを閉鎖し、静的な記事の形式に移行することにしました。これにより、縁のあるユーザーが足跡をたどり、精神的な交流の炎を保つことができます。
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://JingZhuGrove.github.io" # your GitHub Pages URL
 
